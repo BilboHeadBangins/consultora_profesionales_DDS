@@ -1,0 +1,17 @@
+
+[
+{
+    "usuario": "Cristian_Díaz",
+    "codusuario":"c0036912",
+    "clave":"perritoperrito123",
+    "rolUsuario":"cliente"
+},
+{
+    "usuario": "Felipe Loyola",
+    "codusuario":"s0000011",
+    "clave":"gatitogatito123",
+    "rolUsuario":"consultor",
+    "esSocio": true
+}
+]
+
