@@ -6,3 +6,5 @@ Se realizarán las iteraciones que vea necesarias, hasta tener algo aceptable y 
 Log 15/08/2025: Repaso del diagrama de clases, reimplementación de los flujos de sucesos Gestionar Servicios, registrar avances de tareas.
 Buscar forma de automatizar el llenado de datos, para no hacerlo manual yo todo el tiempo, si no que me lo haga la máquina aleatoriamente.
 
+Log 18/08/2025: Reevaluando en la complejidad que tendrá este proyecto. Lo ideal será mantenerlo lo más simple posible, sin interfaces por ahora.
+Solo conexión a base de datos y lógica de negocio.
